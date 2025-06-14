@@ -1,0 +1,2693 @@
+[
+  {
+    "name": "Safeway",
+    "machine_id": "Q01036",
+    "address": "2227 S Shore Center, Alameda, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Safeway",
+    "machine_id": "Q01268",
+    "address": "2600 5th St, Alameda, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Safeway",
+    "machine_id": "Q01528",
+    "address": "103 American Canyon Rd, American Canyon, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Food 4 Less",
+    "machine_id": "Q00330",
+    "address": "1616 W Katella Ave, Anaheim, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Albertsons",
+    "machine_id": "Q00491",
+    "address": "810 S State College Blvd, Anaheim, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Vons",
+    "machine_id": "Q00695",
+    "address": "5600 E Santa Ana Canyon Rd, Anaheim, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Safeway",
+    "machine_id": "Q01333",
+    "address": "16 Rancho del Mar, Aptos, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Albertsons",
+    "machine_id": "Q00467",
+    "address": "298 Live Oak Ave, Arcadia, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Vons",
+    "machine_id": "Q00715",
+    "address": "745 W Naomi Ave, Arcadia, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Safeway",
+    "machine_id": "Q00918",
+    "address": "2550 Bell Rd, Auburn, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Food 4 Less",
+    "machine_id": "Q00573",
+    "address": "3000 Baldwin Park Blvd, Baldwin Park, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Food 4 Less",
+    "machine_id": "Q00711",
+    "address": "6901 Eastern Ave, Bell Gardens, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Safeway",
+    "machine_id": "Q01083",
+    "address": "1100 El Camino Real, Belmont, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Safeway",
+    "machine_id": "Q01274",
+    "address": "50 Solano Square, Benicia, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Safeway",
+    "machine_id": "Q01020",
+    "address": "1444 Shattuck Pl, Berkeley, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "WinCo Foods",
+    "machine_id": "Q00597",
+    "address": "6700 Lone Tree Wy, Brentwood, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Vons",
+    "machine_id": "Q00314",
+    "address": "301 N Pass Ave, Burbank, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Albertsons",
+    "machine_id": "Q00523",
+    "address": "26521 Agoura Rd, Calabasas, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Vons",
+    "machine_id": "Q01242",
+    "address": "940 Arneill RD, Camarillo, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Safeway",
+    "machine_id": "Q00974",
+    "address": "3380 Coach Ln, Cameron Park, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Safeway",
+    "machine_id": "Q00971",
+    "address": "2341 S Winchester Blvd, Campbell, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Safeway",
+    "machine_id": "Q01539",
+    "address": "950 W Hamilton Ave, Campbell, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Vons",
+    "machine_id": "Q00875",
+    "address": "2560 El Camino Real, Carlsbad, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Vons",
+    "machine_id": "Q01024",
+    "address": "6951 El Camino Real, Carlsbad, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Safeway",
+    "machine_id": "Q00989",
+    "address": "4040 Manzanita Ave, Carmichael, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Albertsons",
+    "machine_id": "Q00722",
+    "address": "200 E Sepulveda Blvd, Carson, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Safeway",
+    "machine_id": "Q01102",
+    "address": "4015 E Castro Valley Blvd, Castro Valley, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Albertsons",
+    "machine_id": "Q00509",
+    "address": "12013 Central Ave, Chino, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Albertsons",
+    "machine_id": "Q00519",
+    "address": "15970 Los Serranos Country Club Dr, Chino Hills, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Albertsons",
+    "machine_id": "Q01243",
+    "address": "3255 Grand Ave, Chino Hills, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Vons",
+    "machine_id": "Q00331",
+    "address": "1745 Eastlake Pkwy, Chula Vista, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Vons",
+    "machine_id": "Q01032",
+    "address": "2250 Otay Lakes Rd, Chula Vista, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Safeway",
+    "machine_id": "Q00941",
+    "address": "7301 Greenback Ln, Citrus Heights, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Food 4 Less",
+    "machine_id": "Q00409",
+    "address": "1900 W Rosecrans Ave, Compton, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Safeway",
+    "machine_id": "Q00970",
+    "address": "2600 Willow Pass Rd, Concord, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Safeway",
+    "machine_id": "Q01279",
+    "address": "4309 Clayton Rd, Concord, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Albertsons",
+    "machine_id": "Q00388",
+    "address": "260 W Foothill Pkwy, Corona, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Vons",
+    "machine_id": "Q00508",
+    "address": "535 N McKinley St, Corona, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Vons",
+    "machine_id": "Q00511",
+    "address": "11800 De Palma Rd, Corona, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Safeway",
+    "machine_id": "Q01512",
+    "address": "137 Corte Madera Town Center, Corte Madera, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Pavilions",
+    "machine_id": "Q00517",
+    "address": "11030 Jefferson Blvd, Culver City, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Safeway",
+    "machine_id": "Q01486",
+    "address": "20620 W Homestead Rd, Cupertino, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Safeway",
+    "machine_id": "Q01516",
+    "address": "601 Westlake Center, Daly City, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Safeway",
+    "machine_id": "Q01151",
+    "address": "3496 Camino Tassajara, Danville, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Safeway",
+    "machine_id": "Q01320",
+    "address": "1235 Stratford Ave, Dixon, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Food 4 Less",
+    "machine_id": "Q00311",
+    "address": "13525 Lakewood Blvd, Downey, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Ralphs",
+    "machine_id": "Q00739",
+    "address": "8626 Firestone Blvd, Downey, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Safeway",
+    "machine_id": "Q00928",
+    "address": "7499 Dublin Blvd, Dublin, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Safeway",
+    "machine_id": "Q00930",
+    "address": "4440 Tassajara Rd, Dublin, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Albertsons",
+    "machine_id": "Q00655",
+    "address": "7070 Archibald Ave, Eastvale, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Vons",
+    "machine_id": "Q01167",
+    "address": "6170 Hamner Ave, Eastvale, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Albertsons",
+    "machine_id": "Q00474",
+    "address": "1608 Broadway, El Cajon, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Vons",
+    "machine_id": "Q00886",
+    "address": "1201 Avocado Ave, El Cajon, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Albertsons",
+    "machine_id": "Q01247",
+    "address": "2899 Jamacha Rd, El Cajon, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Safeway",
+    "machine_id": "Q01018",
+    "address": "11450 San Pablo Ave, El Cerrito, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Safeway",
+    "machine_id": "Q00938",
+    "address": "2207 Francisco Dr, El Dorado Hills, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Safeway",
+    "machine_id": "Q00977",
+    "address": "3383 Bass Lake Rd, El Dorado Hills, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Safeway",
+    "machine_id": "Q00931",
+    "address": "5021 Laguna Blvd, Elk Grove, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "WinCo Foods",
+    "machine_id": "Q01530",
+    "address": "8124 Sheldon Rd, Elk Grove, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Pak N Save",
+    "machine_id": "Q01060",
+    "address": "3889 San Pablo Ave, Emeryville, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Albertsons",
+    "machine_id": "Q00890",
+    "address": "1570 W Valley Pkwy, Escondido, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Vons",
+    "machine_id": "Q00892",
+    "address": "1000 W El Norte Pkwy, Escondido, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Vons",
+    "machine_id": "Q01030",
+    "address": "351 W Felicita Ave, Escondido, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Food 4 Less",
+    "machine_id": "Q01250",
+    "address": "644 N Broadway, Escondido, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Safeway",
+    "machine_id": "Q00943",
+    "address": "5450 Dewey Dr, Fair Oaks, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Safeway",
+    "machine_id": "Q01334",
+    "address": "2401 Waterman Blvd, Fairfield, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Albertsons",
+    "machine_id": "Q00476",
+    "address": "1133 S Mission Rd, Fallbrook, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Vons",
+    "machine_id": "Q00481",
+    "address": "636 Ventura St, Fillmore, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "WinCo Foods",
+    "machine_id": "Q00690",
+    "address": "200 Blue Ravine Rd, Folsom, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Safeway",
+    "machine_id": "Q00981",
+    "address": "1850 Prairie City Rd, Folsom, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "WinCo Foods",
+    "machine_id": "Q00493",
+    "address": "14338 Foothill Blvd, Fontana, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Vons",
+    "machine_id": "Q00563",
+    "address": "7390 Cherry Ave, Fontana, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Safeway",
+    "machine_id": "Q01239",
+    "address": "921 E Hillsdale Blvd, Foster City, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Albertsons",
+    "machine_id": "Q00328",
+    "address": "16061 Brookhurst St, Fountain Valley, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Safeway",
+    "machine_id": "Q01337",
+    "address": "2010 Freedom Blvd, Freedom, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Safeway",
+    "machine_id": "Q00973",
+    "address": "39100 Argonaut Way, Fremont, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Safeway",
+    "machine_id": "Q01026",
+    "address": "3902 Washington Blvd, Fremont, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Albertsons",
+    "machine_id": "Q00332",
+    "address": "1930 N Placentia Ave, Fullerton, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Vons",
+    "machine_id": "Q00717",
+    "address": "11861 Valley View St, Garden Grove, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Vons",
+    "machine_id": "Q00658",
+    "address": "1260 W Redondo Beach Blvd, Gardena, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Albertsons",
+    "machine_id": "Q00732",
+    "address": "1735 Artesia Blvd, Gardena, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Food 4 Less",
+    "machine_id": "Q01249",
+    "address": "1299 Artesia Blvd, Gardena, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Vons",
+    "machine_id": "Q00417",
+    "address": "561 N Glendale Ave, Glendale, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Vons",
+    "machine_id": "Q00699",
+    "address": "311 W Los Feliz Rd, Glendale, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Albertsons",
+    "machine_id": "Q00427",
+    "address": "133 W Rte 66, Glendora, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Vons",
+    "machine_id": "Q01245",
+    "address": "163 S Turnpike Rd, Goleta, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Vons",
+    "machine_id": "Q00707",
+    "address": "2122 S Hacienda Blvd, Hacienda Heights, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Safeway",
+    "machine_id": "Q01277",
+    "address": "70 Cabrillo Hwy, Half Moon Bay, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Food 4 Less",
+    "machine_id": "Q00315",
+    "address": "14500 Ocean Gate Ave, Hawthorne, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "FoodMaxx",
+    "machine_id": "Q00626",
+    "address": "27300 Hesperian Blvd, Hayward, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Safeway",
+    "machine_id": "Q01051",
+    "address": "22280 Foothill Blvd, Hayward, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Safeway",
+    "machine_id": "Q01278",
+    "address": "231 W Jackson St, Hayward, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Safeway",
+    "machine_id": "Q01502",
+    "address": "1115 Vine St, Healdsburg, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "WinCo Foods",
+    "machine_id": "Q00453",
+    "address": "4602 W Florida Ave, Hemet, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Safeway",
+    "machine_id": "Q00939",
+    "address": "4080 San Pablo Ave, Hercules, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Vons",
+    "machine_id": "Q00721",
+    "address": "715 Pier Ave, Hermosa Beach, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Vons",
+    "machine_id": "Q00322",
+    "address": "5922 Edinger Ave, Huntington Beach, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Albertsons",
+    "machine_id": "Q00325",
+    "address": "7201 Yorktown Ave, Huntington Beach, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Albertsons",
+    "machine_id": "Q00483",
+    "address": "19640 Beach Blvd, Huntington Beach, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Food 4 Less",
+    "machine_id": "Q00418",
+    "address": "6920 Santa Fe Ave, Huntington Park, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Food 4 Less",
+    "machine_id": "Q00380",
+    "address": "3200 W Century Blvd, Inglewood, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Vons",
+    "machine_id": "Q00422",
+    "address": "500 E Manchester Blvd, Inglewood, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Albertsons",
+    "machine_id": "Q00416",
+    "address": "14201 Jeffrey Rd, Irvine, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Albertsons",
+    "machine_id": "Q00590",
+    "address": "4541 Campus Dr, Irvine, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Albertsons",
+    "machine_id": "Q01285",
+    "address": "6601 Quail Hill Pkwy, Irvine, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Safeway",
+    "machine_id": "Q00922",
+    "address": "12110 Industry Blvd, Jackson, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Vons",
+    "machine_id": "Q01241",
+    "address": "3233 Foothill Blvd, La Crescenta-Montrose, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Albertsons",
+    "machine_id": "Q00583",
+    "address": "1800 W Whittier Blvd, La Habra, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Albertsons",
+    "machine_id": "Q00878",
+    "address": "8920 Fletcher Pkwy, La Mesa, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Food 4 Less",
+    "machine_id": "Q00338",
+    "address": "1821 N Hacienda Blvd, La Puente, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Vons",
+    "machine_id": "Q00515",
+    "address": "1600 Foothill Blvd, La Verne, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Albertsons",
+    "machine_id": "Q00498",
+    "address": "27702 Crown Valley Pkwy B, Ladera Ranch, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Albertsons",
+    "machine_id": "Q01007",
+    "address": "30241 Golden Lantern, Laguna Niguel, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Albertsons",
+    "machine_id": "Q00518",
+    "address": "30901 Riverside Dr, Lake Elsinore, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Vons",
+    "machine_id": "Q00317",
+    "address": "4226 Woodruff Ave, Lakewood, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Vons",
+    "machine_id": "Q00740",
+    "address": "5500 Woodruff Ave, Lakewood, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "WinCo Foods",
+    "machine_id": "Q01286",
+    "address": "3400 E South St, Lakewood, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Safeway",
+    "machine_id": "Q00987",
+    "address": "1554 First St, Livermore, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Safeway",
+    "machine_id": "Q01049",
+    "address": "4495 First St, Livermore, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Vons",
+    "machine_id": "Q00654",
+    "address": "1800-2000 Ximeno Ave, Long Beach, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Food 4 Less",
+    "machine_id": "Q00720",
+    "address": "3210 E Anaheim St, Long Beach, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Albertsons",
+    "machine_id": "Q01019",
+    "address": "101 E Willow St, Long Beach, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Safeway",
+    "machine_id": "Q01517",
+    "address": "160 1st St, Los Altos, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Albertsons",
+    "machine_id": "Q00177",
+    "address": "28090 S Western Ave, Los Angeles, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Food 4 Less",
+    "machine_id": "Q00319",
+    "address": "9635 Laurel Canyon Blvd, Los Angeles, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Food 4 Less",
+    "machine_id": "Q00324",
+    "address": "5100 N Figueroa St, Los Angeles, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Vons",
+    "machine_id": "Q00336",
+    "address": "3461 W 3rd St, Los Angeles, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Food 4 Less",
+    "machine_id": "Q00370",
+    "address": "16530 Sherman Way, Los Angeles, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Food 4 Less",
+    "machine_id": "Q00386",
+    "address": "11507 S Western Ave, Los Angeles, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Food 4 Less",
+    "machine_id": "Q00391",
+    "address": "11840 Wilmington Ave, Los Angeles, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Food 4 Less",
+    "machine_id": "Q00410",
+    "address": "336 W Anaheim St, Los Angeles, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Food 4 Less",
+    "machine_id": "Q00411",
+    "address": "18318 Vanowen St, Los Angeles, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Food 4 Less",
+    "machine_id": "Q00412",
+    "address": "8035 Webb Ave, Los Angeles, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Food 4 Less",
+    "machine_id": "Q00413",
+    "address": "1820 W Slauson Ave, Los Angeles, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Food 4 Less",
+    "machine_id": "Q00419",
+    "address": "16208 Parthenia St, Los Angeles, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Food 4 Less",
+    "machine_id": "Q00420",
+    "address": "2750 1st St, Los Angeles, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Vons",
+    "machine_id": "Q00425",
+    "address": "4520 W Sunset Blvd, Los Angeles, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Pavilions",
+    "machine_id": "Q00469",
+    "address": "14845 Ventura Blvd, Los Angeles, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Pavilions",
+    "machine_id": "Q00514",
+    "address": "6534 Platt Ave, Los Angeles, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Vons",
+    "machine_id": "Q00577",
+    "address": "7789 Foothill Blvd, Los Angeles, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Vons",
+    "machine_id": "Q00702",
+    "address": "16830 San Fernando Mission Blvd, Los Angeles, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Vons",
+    "machine_id": "Q00719",
+    "address": "7311 N Figueroa St, Los Angeles, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Safeway",
+    "machine_id": "Q00978",
+    "address": "470 N Santa Cruz Ave, Los Gatos, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Safeway",
+    "machine_id": "Q00983",
+    "address": "15549 Union Ave, Los Gatos, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Safeway",
+    "machine_id": "Q00980",
+    "address": "1187 S Main St, Manteca, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Pavilions",
+    "machine_id": "Q00512",
+    "address": "4365 Glencoe Ave, Marina del Rey, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Safeway",
+    "machine_id": "Q01109",
+    "address": "6688 Alhambra Ave, Martinez, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Safeway",
+    "machine_id": "Q01330",
+    "address": "525 El Camino Real, Menlo Park, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Safeway",
+    "machine_id": "Q01510",
+    "address": "525 El Camino Real, Millbrae, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Safeway",
+    "machine_id": "Q00982",
+    "address": "555 E Calaveras Blvd, Milpitas, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Albertsons",
+    "machine_id": "Q00575",
+    "address": "23072 Alicia Pkwy, Mission Viejo, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Pavilions",
+    "machine_id": "Q01270",
+    "address": "26022 Marguerite Pkwy, Mission Viejo, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Vons",
+    "machine_id": "Q00335",
+    "address": "130 W Foothill Blvd, Monrovia, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Albertsons",
+    "machine_id": "Q00704",
+    "address": "2469 Via Campo, Montebello, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Safeway",
+    "machine_id": "Q01233",
+    "address": "1355 Moraga Way, Moraga, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "WinCo Foods",
+    "machine_id": "Q00497",
+    "address": "12880 Day St, Moreno Valley, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Safeway",
+    "machine_id": "Q00932",
+    "address": "235 Tennant Station, Morgan Hill, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Safeway",
+    "machine_id": "Q00985",
+    "address": "840 E Dunne Ave, Morgan Hill, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Safeway",
+    "machine_id": "Q01271",
+    "address": "645 San Antonio Rd, Mountain View, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Safeway",
+    "machine_id": "Q01513",
+    "address": "1750 Miramonte Ave, Mountain View, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Safeway",
+    "machine_id": "Q01538",
+    "address": "570 N Shoreline Blvd, Mountain View, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Albertsons",
+    "machine_id": "Q00485",
+    "address": "39140 Winchester Rd, Murrieta, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Albertsons",
+    "machine_id": "Q00495",
+    "address": "41000 California Oaks Rd, Murrieta, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Pavilions",
+    "machine_id": "Q00995",
+    "address": "21181 Newport Coast Dr, Newport Beach, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Safeway",
+    "machine_id": "Q01519",
+    "address": "5720 Nave Dr, Novato, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "FoodMaxx",
+    "machine_id": "Q00984",
+    "address": "3000 E 9th St, Oakland, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Safeway",
+    "machine_id": "Q01126",
+    "address": "5100 Broadway, Oakland, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Safeway",
+    "machine_id": "Q01164",
+    "address": "4100 Redwood Rd, Oakland, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Safeway",
+    "machine_id": "Q01267",
+    "address": "6310 College Ave, Oakland, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Albertsons",
+    "machine_id": "Q00668",
+    "address": "3450 Marron Rd, Oceanside, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Albertsons",
+    "machine_id": "Q00751",
+    "address": "4150 Oceanside Blvd, Oceanside, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Vons",
+    "machine_id": "Q01005",
+    "address": "845 College Blvd, Oceanside, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "WinCo Foods",
+    "machine_id": "Q01300",
+    "address": "2245 S El Camino Real, Oceanside, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Food 4 Less",
+    "machine_id": "Q01176",
+    "address": "2246 S Euclid Ave, Ontario, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Vons",
+    "machine_id": "Q00591",
+    "address": "2684 N Tustin St, Orange, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "WinCo Foods",
+    "machine_id": "Q01251",
+    "address": "8701 Greenback Ln, Orangevale, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Vons",
+    "machine_id": "Q00494",
+    "address": "2101 N Rose Ave, Oxnard, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Safeway",
+    "machine_id": "Q01344",
+    "address": "1380 Linda Mar Shopping Center, Pacifica, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Safeway",
+    "machine_id": "Q01387",
+    "address": "709 Hickey Blvd, Pacifica, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Vons",
+    "machine_id": "Q00372",
+    "address": "2355 E Colorado Blvd, Pasadena, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Safeway",
+    "machine_id": "Q01492",
+    "address": "701 Sonoma Mountain Pkwy, Petaluma, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Safeway",
+    "machine_id": "Q01525",
+    "address": "389 S McDowell Blvd, Petaluma, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Safeway",
+    "machine_id": "Q00969",
+    "address": "3955 Missouri Flat Rd, Placerville, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Safeway",
+    "machine_id": "Q00967",
+    "address": "600 Patterson Blvd, Pleasant Hill, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Safeway",
+    "machine_id": "Q01031",
+    "address": "1978 Contra Costa Blvd, Pleasant Hill, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Safeway",
+    "machine_id": "Q01148",
+    "address": "707 Contra Costa Blvd, Pleasant Hill, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Safeway",
+    "machine_id": "Q00944",
+    "address": "1701 Santa Rita Rd, Pleasanton, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "WinCo Foods",
+    "machine_id": "Q01236",
+    "address": "90 Rio Rancho Rd, Pomona, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Safeway",
+    "machine_id": "Q00935",
+    "address": "10635 Folsom Blvd, Rancho Cordova, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Albertsons",
+    "machine_id": "Q00468",
+    "address": "11358 Kenyon Way, Rancho Cucamonga, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Albertsons",
+    "machine_id": "Q00475",
+    "address": "450 E Cypress Ave, Redlands, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Vons",
+    "machine_id": "Q00741",
+    "address": "4001 Inglewood Ave, Redondo Beach, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Albertsons",
+    "machine_id": "Q00500",
+    "address": "2975 Van Buren Boulevard, Riverside, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Vons",
+    "machine_id": "Q01097",
+    "address": "3520 Riverside Plaza Dr, Riverside, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Safeway",
+    "machine_id": "Q00631",
+    "address": "2220 Sunset Blvd, Rocklin, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Safeway",
+    "machine_id": "Q00603",
+    "address": "6340 Commerce Blvd, Rohnert Park, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Pavilions",
+    "machine_id": "Q00714",
+    "address": "7 Peninsula Center, Rolling Hills Estates, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Safeway",
+    "machine_id": "Q00923",
+    "address": "8640 Sierra College Blvd, Roseville, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Safeway",
+    "machine_id": "Q00927",
+    "address": "1080 Pleasant Grove Blvd, Roseville, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Safeway",
+    "machine_id": "Q00929",
+    "address": "989 Sunrise Ave, Roseville, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Safeway",
+    "machine_id": "Q00988",
+    "address": "9045 Woodcreek Oaks Blvd, Roseville, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Safeway",
+    "machine_id": "Q00924",
+    "address": "1814 19th St, Sacramento, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Safeway",
+    "machine_id": "Q00926",
+    "address": "1025 Alhambra Blvd, Sacramento, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Safeway",
+    "machine_id": "Q00933",
+    "address": "3320 Arden Wy, Sacramento, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Safeway",
+    "machine_id": "Q00968",
+    "address": "8377 Elk Grove Florin Rd, Sacramento, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Safeway",
+    "machine_id": "Q01522",
+    "address": "5345 Elkhorn Blvd, Sacramento, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "WinCo Foods",
+    "machine_id": "Q01534",
+    "address": "2300 Watt Ave, Sacramento, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Safeway",
+    "machine_id": "Q01537",
+    "address": "2851 Del Paso Rd, Sacramento, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Safeway",
+    "machine_id": "Q01500",
+    "address": "838 Sir Francis Drake Blvd, San Anselmo, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Albertsons",
+    "machine_id": "Q00521",
+    "address": "804 Avenida Pico, San Clemente, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Pavilions",
+    "machine_id": "Q01291",
+    "address": "989 Avenida Pico, San Clemente, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Vons",
+    "machine_id": "Q00489",
+    "address": "620 Dennery Rd, San Diego, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Vons",
+    "machine_id": "Q00492",
+    "address": "11986 Bernardo Plaza Dr, San Diego, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Vons",
+    "machine_id": "Q00499",
+    "address": "6155 El Cajon Blvd, San Diego, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Vons",
+    "machine_id": "Q00505",
+    "address": "8310 Mira Mesa Blvd, San Diego, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Vons",
+    "machine_id": "Q00506",
+    "address": "515 Washington St, San Diego, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Albertsons",
+    "machine_id": "Q00572",
+    "address": "12475 Rancho Bernardo Rd, San Diego, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Vons",
+    "machine_id": "Q00576",
+    "address": "7544 Girard Ave, San Diego, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Albertsons",
+    "machine_id": "Q00581",
+    "address": "8650 Lake Murray Blvd, San Diego, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Vons",
+    "machine_id": "Q00592",
+    "address": "4145 30th St, San Diego, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Vons",
+    "machine_id": "Q00615",
+    "address": "4725 Clairemont Dr, San Diego, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Vons",
+    "machine_id": "Q00888",
+    "address": "3550 Murphy Canyon Rd, San Diego, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Vons",
+    "machine_id": "Q00889",
+    "address": "10675 Scripps Poway Pkwy, San Diego, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Vons",
+    "machine_id": "Q01266",
+    "address": "7895 Highlands Village Pl, San Diego, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Albertsons",
+    "machine_id": "Q00496",
+    "address": "220 E Bonita Ave, San Dimas, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Safeway",
+    "machine_id": "Q00920",
+    "address": "735 7th Ave, San Francisco, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Safeway",
+    "machine_id": "Q01335",
+    "address": "850 La Playa St, San Francisco, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Safeway",
+    "machine_id": "Q01345",
+    "address": "5290 Diamond Heights Blvd, San Francisco, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Lucky",
+    "machine_id": "Q00921",
+    "address": "3457 McKee Rd, San Jose, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Safeway",
+    "machine_id": "Q00925",
+    "address": "5760 Cottle Rd, San Jose, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Safeway",
+    "machine_id": "Q00934",
+    "address": "1663 Branham Ln, San Jose, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Safeway",
+    "machine_id": "Q00937",
+    "address": "4950 Almaden Expy, San Jose, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Safeway",
+    "machine_id": "Q00986",
+    "address": "179 Branham Ln, San Jose, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Safeway",
+    "machine_id": "Q00991",
+    "address": "1530 Hamilton Ave, San Jose, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Safeway",
+    "machine_id": "Q01526",
+    "address": "5146 Stevens Creek Blvd, San Jose, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Safeway",
+    "machine_id": "Q01529",
+    "address": "6150 Bollinger Rd, San Jose, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Safeway",
+    "machine_id": "Q01160",
+    "address": "699 Lewelling Blvd, San Leandro, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "WinCo Foods",
+    "machine_id": "Q00479",
+    "address": "555 Grand Ave, San Marcos, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Albertsons",
+    "machine_id": "Q00502",
+    "address": "151 Woodland Pkwy, San Marcos, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Albertsons",
+    "machine_id": "Q00877",
+    "address": "1929 W San Marcos Blvd, San Marcos, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Albertsons",
+    "machine_id": "Q01022",
+    "address": "1571 San Elijo Rd, San Marcos, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Safeway",
+    "machine_id": "Q01134",
+    "address": "100 De Anza Blvd, San Mateo, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Safeway",
+    "machine_id": "Q01260",
+    "address": "1655 S El Camino Real, San Mateo, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Safeway",
+    "machine_id": "Q01039",
+    "address": "11060 Bollinger Canyon Rd, San Ramon, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Food 4 Less",
+    "machine_id": "Q00320",
+    "address": "2140 S Bristol St, Santa Ana, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Vons",
+    "machine_id": "Q00414",
+    "address": "3650 S Bristol St, Santa Ana, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Albertsons",
+    "machine_id": "Q00478",
+    "address": "23850 Copper Hill Dr, Santa Clarita, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Albertsons",
+    "machine_id": "Q00487",
+    "address": "27631 Bouquet Canyon Rd, Santa Clarita, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Vons",
+    "machine_id": "Q01184",
+    "address": "24160 Lyons Ave, Santa Clarita, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Vons",
+    "machine_id": "Q01223",
+    "address": "26518 Bouquet Canyon Rd, Santa Clarita, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Food 4 Less",
+    "machine_id": "Q01656",
+    "address": "19200 Soledad Canyon Rd, Santa Clarita, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Safeway",
+    "machine_id": "Q01338",
+    "address": "2203 Mission St, Santa Cruz, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Vons",
+    "machine_id": "Q00513",
+    "address": "576 W Main St, Santa Paula, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Safeway",
+    "machine_id": "Q00623",
+    "address": "1799 Marlow Rd, Santa Rosa, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Safeway",
+    "machine_id": "Q00632",
+    "address": "100 Calistoga Rd, Santa Rosa, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Safeway",
+    "machine_id": "Q00672",
+    "address": "2300 Mendocino Ave, Santa Rosa, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Safeway",
+    "machine_id": "Q00976",
+    "address": "2751 4th St, Santa Rosa, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "FoodMaxx",
+    "machine_id": "Q01256",
+    "address": "2055 Sebastopol Rd, Santa Rosa, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Safeway",
+    "machine_id": "Q01339",
+    "address": "1211 W College Ave, Santa Rosa, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Safeway",
+    "machine_id": "Q01484",
+    "address": "2785 Yulupa Ave, Santa Rosa, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Vons",
+    "machine_id": "Q01655",
+    "address": "9643 Mission Gorge Rd, Santee, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Safeway",
+    "machine_id": "Q01521",
+    "address": "12876 Saratoga Sunnyvale Rd, Saratoga, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Safeway",
+    "machine_id": "Q01331",
+    "address": "253 Mt Hermon Rd, Scotts Valley, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Safeway",
+    "machine_id": "Q01514",
+    "address": "406 N Main St, Sebastopol, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Albertsons",
+    "machine_id": "Q00465",
+    "address": "1268 Madera Rd, Simi Valley, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Vons",
+    "machine_id": "Q00486",
+    "address": "1855 Cochran St, Simi Valley, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Vons",
+    "machine_id": "Q00504",
+    "address": "2938 Tapo Canyon Rd, Simi Valley, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Safeway",
+    "machine_id": "Q01536",
+    "address": "477 W Napa St, Sonoma, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Safeway",
+    "machine_id": "Q01351",
+    "address": "30 Chestnut Ave, South San Francisco, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Safeway",
+    "machine_id": "Q01532",
+    "address": "2255 Gellert Blvd, South San Francisco, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Albertsons",
+    "machine_id": "Q01218",
+    "address": "543 Sweetwater Rd, Spring Valley, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Vons",
+    "machine_id": "Q01216",
+    "address": "25850 The Old Rd, Stevenson Ranch, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Safeway",
+    "machine_id": "Q00975",
+    "address": "6445 Pacific Ave, Stockton, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Safeway",
+    "machine_id": "Q01057",
+    "address": "2808 Country Club Blvd, Stockton, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Safeway",
+    "machine_id": "Q00611",
+    "address": "639 S Bernardo Ave, Sunnyvale, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Safeway",
+    "machine_id": "Q01503",
+    "address": "150 E El Camino Real, Sunnyvale, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "WinCo Foods",
+    "machine_id": "Q01185",
+    "address": "40435 Winchester Rd, Temecula, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Vons",
+    "machine_id": "Q00507",
+    "address": "2048 E Avenida de Los Arboles, Thousand Oaks, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Vons",
+    "machine_id": "Q00423",
+    "address": "4705 Torrance Blvd, Torrance, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Vons",
+    "machine_id": "Q00706",
+    "address": "24325 Crenshaw Blvd, Torrance, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Safeway",
+    "machine_id": "Q00972",
+    "address": "1801 W 11th St, Tracy, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "WinCo Foods",
+    "machine_id": "Q01325",
+    "address": "2850 Pavilion Pkwy, Tracy, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Albertsons",
+    "machine_id": "Q00348",
+    "address": "13270 Newport Ave, Tustin, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Safeway",
+    "machine_id": "Q00979",
+    "address": "1790 Decoto Rd, Union City, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Albertsons",
+    "machine_id": "Q00661",
+    "address": "1910 N Campus Ave, Upland, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Vons",
+    "machine_id": "Q00731",
+    "address": "101 W Foothill Blvd, Upland, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Safeway",
+    "machine_id": "Q01346",
+    "address": "2090 Harbison Dr, Vacaville, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Safeway",
+    "machine_id": "Q01523",
+    "address": "122 Robles Way, Vallejo, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Albertsons",
+    "machine_id": "Q00488",
+    "address": "1301 E Vista Way, Vista, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Albertsons",
+    "machine_id": "Q00516",
+    "address": "1601 S Melrose Dr, Vista, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Safeway",
+    "machine_id": "Q00936",
+    "address": "2800 Ygnacio Valley Rd, Walnut Creek, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Food 4 Less",
+    "machine_id": "Q00248",
+    "address": "615 N Azusa Ave, West Covina, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Pavilions",
+    "machine_id": "Q00415",
+    "address": "8969 Santa Monica Blvd, West Hollywood, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Vons",
+    "machine_id": "Q00501",
+    "address": "Los Angeles, Westchester, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Albertsons",
+    "machine_id": "Q00662",
+    "address": "6755 Westminster Blvd., Westminster, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Vons",
+    "machine_id": "Q00327",
+    "address": "15740 La Forge St, Whittier, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Safeway",
+    "machine_id": "Q01524",
+    "address": "9080 Brooks Rd S, Windsor, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Vons",
+    "machine_id": "Q01240",
+    "address": "20445 Yorba Linda Blvd, Yorba Linda, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  },
+  {
+    "name": "Vons",
+    "machine_id": "Q00503",
+    "address": "33644 Yucaipa Blvd, Yucaipa, CA",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    }
+  }
+]

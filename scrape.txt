@@ -1,0 +1,2424 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="en-US">
+<head>
+  <meta charset="utf-8" />
+  <!-- v26117 -->
+
+
+  <title>California Pokémon Automated Retail Vending Machine Locations &ndash; Pokémon Center Support</title>
+
+  
+
+  <meta name="description" content="For questions or issues with any of these machines, please call the toll-free number 866-872-4790 to reach the Pokémon Automated Retail..." /><meta property="og:image" content="https://support.pokemoncenter.com/hc/theming_assets/01HZPDD03PD1YW2PGW1VNZ8QH2" />
+<meta property="og:type" content="website" />
+<meta property="og:site_name" content="Pokémon Center Support" />
+<meta property="og:title" content="California Pokémon Automated Retail Vending Machine Locations" />
+<meta property="og:description" content="For questions or issues with any of these machines, please call the toll-free number 866-872-4790 to reach the Pokémon Automated Retail Vending Machine Support Team for assistance. Agents are avail..." />
+<meta property="og:url" content="https://support.pokemoncenter.com/hc/en-us/articles/24976100042132-California-Pok%C3%A9mon-Automated-Retail-Vending-Machine-Locations" />
+<link rel="canonical" href="https://support.pokemoncenter.com/hc/en-us/articles/24976100042132-California-Pok%C3%A9mon-Automated-Retail-Vending-Machine-Locations">
+<link rel="alternate" hreflang="en-us" href="https://support.pokemoncenter.com/hc/en-us/articles/24976100042132-California-Pok%C3%A9mon-Automated-Retail-Vending-Machine-Locations">
+<link rel="alternate" hreflang="x-default" href="https://support.pokemoncenter.com/hc/en-us/articles/24976100042132-California-Pok%C3%A9mon-Automated-Retail-Vending-Machine-Locations">
+
+  <link rel="stylesheet" href="//static.zdassets.com/hc/assets/application-cfe22f1db0125fea22ea26916411c608.css" media="all" id="stylesheet" />
+  <link rel="stylesheet" type="text/css" href="/hc/theming_assets/2146912/114095277713/style.css?digest=37286741152276">
+
+  <link rel="icon" type="image/x-icon" href="/hc/theming_assets/01HZPDD07NYKQ9HB6V6X9S76VN">
+
+    
+    
+
+  <meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport" />
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+
+  
+</head>
+<body class="">
+  
+  
+  
+
+  <div class="alertbox"></div>
+<header class="header">
+  <div class="logo">
+    <a href="https://www.pokemoncenter.com">
+      <img src="/hc/theming_assets/01HZPDD03PD1YW2PGW1VNZ8QH2" alt="Logo">
+    </a>
+  </div>
+  <div class="nav-wrapper">
+    <span class="icon-menu"></span>
+    <nav class="user-nav" id="user-nav">
+      <a class="submit-a-request" href="/hc/en-us/requests/new">Submit a request</a>
+    </nav>
+   
+  </div>
+  <meta name='zd-site-verification' content='sg9h64l5wl7aiwg992wmni' />
+</header>
+
+
+  <main role="main">
+    <div class="container-divider"></div>
+<div class="container">
+  <nav class="sub-nav">
+    <nav aria-label="Current location">
+  <ol class="breadcrumbs">
+    
+      <li>
+        
+          <a href="/hc/en-us">Pokémon Center Support</a>
+        
+      </li>
+    
+      <li>
+        
+          <a href="/hc/en-us/categories/360000089753-Pok%C3%A9mon-Center">Pokémon Center</a>
+        
+      </li>
+    
+      <li>
+        
+          <a href="/hc/en-us/sections/13360842288916-Pok%C3%A9mon-Automated-Retail-Vending-Machines">Pokémon Automated Retail Vending Machines</a>
+        
+      </li>
+    
+  </ol>
+</nav>
+
+    <div class="search-container">
+      <form role="search" class="search" data-search="" action="/hc/en-us/search" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="&#x2713;" autocomplete="off" /><input type="hidden" name="category" id="category" value="360000089753" autocomplete="off" />
+<input type="search" name="query" id="query" placeholder="Search" aria-label="Search" /></form>
+    </div>
+  </nav>
+
+  <div class="article-container" id="article-container">
+    <section class="article-sidebar">
+      <section class="section-articles collapsible-sidebar">
+        <h3 class="collapsible-sidebar-title sidenav-title">Articles in this section</h3>
+        <ul>
+          
+            <li>
+              <a href="/hc/en-us/articles/6797616382868-Pok%C3%A9mon-Automated-Retail-Vending-Machine-FAQ" class="sidenav-item ">Pokémon Automated Retail Vending Machine FAQ</a>
+            </li>
+          
+            <li>
+              <a href="/hc/en-us/articles/24975990158356-Arizona-Pok%C3%A9mon-Automated-Retail-Vending-Machine-Locations" class="sidenav-item ">Arizona Pokémon Automated Retail Vending Machine Locations</a>
+            </li>
+          
+            <li>
+              <a href="/hc/en-us/articles/24976100042132-California-Pok%C3%A9mon-Automated-Retail-Vending-Machine-Locations" class="sidenav-item current-article">California Pokémon Automated Retail Vending Machine Locations</a>
+            </li>
+          
+            <li>
+              <a href="/hc/en-us/articles/24975922810388-Colorado-Pok%C3%A9mon-Automated-Retail-Vending-Machine-Locations" class="sidenav-item ">Colorado Pokémon Automated Retail Vending Machine Locations</a>
+            </li>
+          
+            <li>
+              <a href="/hc/en-us/articles/35175209435284-Delaware-Pok%C3%A9mon-Automated-Retail-Vending-Machine-Locations" class="sidenav-item ">Delaware Pokémon Automated Retail Vending Machine Locations</a>
+            </li>
+          
+            <li>
+              <a href="/hc/en-us/articles/34556882074900-District-of-Columbia-Pok%C3%A9mon-Automated-Retail-Vending-Machine-Locations" class="sidenav-item ">District of Columbia Pokémon Automated Retail Vending Machine Locations</a>
+            </li>
+          
+            <li>
+              <a href="/hc/en-us/articles/28698814290964-Georgia-Pok%C3%A9mon-Automated-Retail-Vending-Machine-Locations" class="sidenav-item ">Georgia Pokémon Automated Retail Vending Machine Locations</a>
+            </li>
+          
+            <li>
+              <a href="/hc/en-us/articles/35175210943380-Idaho-Pok%C3%A9mon-Automated-Retail-Vending-Machine-Locations" class="sidenav-item ">Idaho Pokémon Automated Retail Vending Machine Locations</a>
+            </li>
+          
+            <li>
+              <a href="/hc/en-us/articles/29376988647956-Illinois-Pok%C3%A9mon-Automated-Retail-Vending-Machine-Locations" class="sidenav-item ">Illinois Pokémon Automated Retail Vending Machine Locations</a>
+            </li>
+          
+            <li>
+              <a href="/hc/en-us/articles/31276267784212-Indiana-Pok%C3%A9mon-Automated-Retail-Vending-Machine-Locations" class="sidenav-item ">Indiana Pokémon Automated Retail Vending Machine Locations</a>
+            </li>
+          
+        </ul>
+        
+          <a href="/hc/en-us/sections/13360842288916-Pok%C3%A9mon-Automated-Retail-Vending-Machines" class="article-sidebar-item">See more</a>
+        
+      </section>
+    </section>
+
+    <article class="article">
+      <header class="article-header">
+        <h1 title="California Pokémon Automated Retail Vending Machine Locations" class="article-title">
+          California Pokémon Automated Retail Vending Machine Locations
+          
+        </h1>
+
+       <div class="article-author">
+          <div class="avatar article-avatar">
+            
+              
+            
+            <img src="/hc/theming_assets/01HZPDCY5GJXW7FGJ6KRCMF1Z8"/>
+          </div>
+          <div class="article-meta">
+            <strong> 
+            Pokémon Center Support
+            </strong>
+
+            <ul class="meta-group">
+              
+                <li class="meta-data"><time datetime="2025-05-20T18:09:57Z" title="2025-05-20T18:09:57Z" data-datetime="relative">May 20, 2025 18:09</time></li>
+                <li class="meta-data">Updated</li>
+              
+            </ul>
+          </div>
+        </div>
+        
+      </header>
+
+      <section class="article-info">
+        <div class="article-content">
+          <div class="article-body"><p>For questions or issues with any of these machines, please call the toll-free number <strong>866-872-4790</strong> to reach the Pokémon Automated Retail Vending Machine Support Team for assistance. Agents are available: 6:00am–8:00pm Pacific, 7 days a week.</p>
+
+<p>Or, you may submit an email request <a href="https://support.pokemoncenter.com/hc/en-us/requests/new?ticket_form_id=15002078244244" target="_self">here</a>. Please allow up to 2 business days for a response via email.</p>
+
+<div class="callout">
+  <p class="wysiwyg-text-align-center">
+    <strong>See </strong><a href="https://support.pokemoncenter.com/hc/en-us/sections/13360842288916-Pok%C3%A9mon-Automated-Retail-Vending-Machines\"><strong>here</strong></a><strong> for more Pokémon Vending Machine locations.</strong>
+  </p>
+</div>
+
+<h2 id="01HFQF0S82WEWEVN7GSYFBPAN7"><strong></strong></h2>
+
+<table style="border-collapse: collapse; width: 100%;" border="1">
+  <thead>
+    <tr style="height: 38px;">
+      <th class="wysiwyg-text-align-center" style="width: 25%;">
+        <p><strong>Retailer</strong></p>
+      </th>
+      <th class="wysiwyg-text-align-center" style="width: 22%;">
+        <p><strong>Machine ID</strong></p>
+      </th>
+      <th class="wysiwyg-text-align-center" style="width: 29%;">
+        <p><strong>Address</strong></p>
+      </th>
+      <th class="wysiwyg-text-align-center" style="width: 24%;">
+        <p><strong>City, State</strong></p>
+      </th>
+    </tr>
+  </thead>
+  <tbody>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Safeway</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q01036</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>2227 S Shore Center</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Alameda, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Safeway</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q01268</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>2600 5th St</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Alameda, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Safeway</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q01528</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>103 American Canyon Rd</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>American Canyon, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Food 4 Less</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q00330</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>1616 W Katella Ave</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Anaheim, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Albertsons</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q00491</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>810 S State College Blvd</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Anaheim, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Vons</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q00695</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>5600 E Santa Ana Canyon Rd</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Anaheim, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Safeway</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q01333</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>16 Rancho del Mar</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Aptos, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Albertsons</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q00467</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>298 Live Oak Ave</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Arcadia, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Vons</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q00715</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>745 W Naomi Ave</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Arcadia, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Safeway</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q00918</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>2550 Bell Rd</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Auburn, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Food 4 Less</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q00573</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>3000 Baldwin Park Blvd</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Baldwin Park, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Food 4 Less</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q00711</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>6901 Eastern Ave</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Bell Gardens, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Safeway</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q01083</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>1100 El Camino Real</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Belmont, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Safeway</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q01274</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>50 Solano Square</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Benicia, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Safeway</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q01020</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>1444 Shattuck Pl</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Berkeley, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>WinCo Foods</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q00597</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>6700 Lone Tree Wy</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Brentwood, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Vons</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q00314</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>301 N Pass Ave</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Burbank, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Albertsons</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q00523</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>26521 Agoura Rd</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Calabasas, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Vons</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q01242</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>940 Arneill RD</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Camarillo, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Safeway</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q00974</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>3380 Coach Ln</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Cameron Park, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Safeway</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q00971</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>2341 S Winchester Blvd</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Campbell, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Safeway</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q01539</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>950 W Hamilton Ave</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Campbell, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Vons</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q00875</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>2560 El Camino Real</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Carlsbad, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Vons</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q01024</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>6951 El Camino Real</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Carlsbad, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Safeway</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q00989</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>4040 Manzanita Ave</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Carmichael, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Albertsons</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q00722</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>200 E Sepulveda Blvd</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Carson, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Safeway</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q01102</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>4015 E Castro Valley Blvd</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Castro Valley, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Albertsons</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q00509</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>12013 Central Ave</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Chino, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Albertsons</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q00519</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>15970 Los Serranos Country Club Dr</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Chino Hills, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Albertsons</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q01243</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>3255 Grand Ave</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Chino Hills, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Vons</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q00331</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>1745 Eastlake Pkwy</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Chula Vista, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Vons</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q01032</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>2250 Otay Lakes Rd</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Chula Vista, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Safeway</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q00941</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>7301 Greenback Ln</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Citrus Heights, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Food 4 Less</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q00409</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>1900 W Rosecrans Ave</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Compton, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Safeway</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q00970</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>2600 Willow Pass Rd</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Concord, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Safeway</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q01279</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>4309 Clayton Rd</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Concord, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Albertsons</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q00388</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>260 W Foothill Pkwy</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Corona, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Vons</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q00508</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>535 N McKinley St</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Corona, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Vons</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q00511</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>11800 De Palma Rd</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Corona, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Safeway</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q01512</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>137 Corte Madera Town Center</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Corte Madera, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Pavilions</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q00517</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>11030 Jefferson Blvd</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Culver City, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Safeway</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q01486</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>20620 W Homestead Rd</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Cupertino, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Safeway</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q01516</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>601 Westlake Center</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Daly City, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Safeway</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q01151</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>3496 Camino Tassajara</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Danville, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Safeway</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q01320</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>1235 Stratford Ave</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Dixon, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Food 4 Less</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q00311</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>13525 Lakewood Blvd</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Downey, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Ralphs</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q00739</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>8626 Firestone Blvd</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Downey, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Safeway</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q00928</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>7499 Dublin Blvd</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Dublin, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Safeway</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q00930</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>4440 Tassajara Rd</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Dublin, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Albertsons</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q00655</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>7070 Archibald Ave</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Eastvale, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Vons</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q01167</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>6170 Hamner Ave</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Eastvale, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Albertsons</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q00474</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>1608 Broadway</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>El Cajon, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Vons</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q00886</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>1201 Avocado Ave</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>El Cajon, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Albertsons</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q01247</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>2899 Jamacha Rd</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>El Cajon, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Safeway</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q01018</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>11450 San Pablo Ave</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>El Cerrito, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Safeway</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q00938</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>2207 Francisco Dr</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>El Dorado Hills, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Safeway</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q00977</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>3383 Bass Lake Rd</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>El Dorado Hills, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Safeway</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q00931</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>5021 Laguna Blvd</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Elk Grove, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>WinCo Foods</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q01530</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>8124 Sheldon Rd</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Elk Grove, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Pak N Save</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q01060</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>3889 San Pablo Ave</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Emeryville, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Albertsons</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q00890</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>1570 W Valley Pkwy</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Escondido, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Vons</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q00892</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>1000 W El Norte Pkwy</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Escondido, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Vons</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q01030</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>351 W Felicita Ave</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Escondido, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Food 4 Less</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q01250</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>644 N Broadway</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Escondido, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Safeway</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q00943</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>5450 Dewey Dr</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Fair Oaks, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Safeway</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q01334</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>2401 Waterman Blvd</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Fairfield, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Albertsons</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q00476</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>1133 S Mission Rd</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Fallbrook, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Vons</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q00481</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>636 Ventura St</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Fillmore, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>WinCo Foods</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q00690</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>200 Blue Ravine Rd</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Folsom, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Safeway</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q00981</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>1850 Prairie City Rd</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Folsom, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>WinCo Foods</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q00493</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>14338 Foothill Blvd</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Fontana, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Vons</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q00563</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>7390 Cherry Ave</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Fontana, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Safeway</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q01239</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>921 E Hillsdale Blvd</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Foster City, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Albertsons</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q00328</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>16061 Brookhurst St</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Fountain Valley, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Safeway</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q01337</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>2010 Freedom Blvd</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Freedom, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Safeway</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q00973</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>39100 Argonaut Way</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Fremont, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Safeway</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q01026</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>3902 Washington Blvd</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Fremont, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Albertsons</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q00332</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>1930 N Placentia Ave</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Fullerton, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Vons</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q00717</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>11861 Valley View St</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Garden Grove, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Vons</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q00658</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>1260 W Redondo Beach Blvd</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Gardena, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Albertsons</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q00732</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>1735 Artesia Blvd</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Gardena, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Food 4 Less</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q01249</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>1299 Artesia Blvd</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Gardena, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Vons</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q00417</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>561 N Glendale Ave</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Glendale, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Vons</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q00699</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>311 W Los Feliz Rd</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Glendale, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Albertsons</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q00427</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>133 W Rte 66</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Glendora, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Vons</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q01245</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>163 S Turnpike Rd</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Goleta, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Vons</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q00707</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>2122 S Hacienda Blvd</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Hacienda Heights, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Safeway</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q01277</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>70 Cabrillo Hwy</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Half Moon Bay, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Food 4 Less</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q00315</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>14500 Ocean Gate Ave</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Hawthorne, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>FoodMaxx</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q00626</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>27300 Hesperian Blvd</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Hayward, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Safeway</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q01051</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>22280 Foothill Blvd</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Hayward, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Safeway</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q01278</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>231 W Jackson St</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Hayward, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Safeway</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q01502</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>1115 Vine St</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Healdsburg, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>WinCo Foods</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q00453</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>4602 W Florida Ave</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Hemet, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Safeway</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q00939</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>4080 San Pablo Ave</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Hercules, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Vons</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q00721</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>715 Pier Ave</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Hermosa Beach, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Vons</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q00322</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>5922 Edinger Ave</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Huntington Beach, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Albertsons</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q00325</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>7201 Yorktown Ave</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Huntington Beach, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Albertsons</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q00483</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>19640 Beach Blvd</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Huntington Beach, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Food 4 Less</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q00418</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>6920 Santa Fe Ave</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Huntington Park, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Food 4 Less</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q00380</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>3200 W Century Blvd</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Inglewood, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Vons</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q00422</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>500 E Manchester Blvd</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Inglewood, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Albertsons</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q00416</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>14201 Jeffrey Rd</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Irvine, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Albertsons</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q00590</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>4541 Campus Dr</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Irvine, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Albertsons</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q01285</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>6601 Quail Hill Pkwy</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Irvine, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Safeway</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q00922</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>12110 Industry Blvd</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Jackson, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Vons</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q01241</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>3233 Foothill Blvd</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>La Crescenta-Montrose, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Albertsons</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q00583</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>1800 W Whittier Blvd</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>La Habra, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Albertsons</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q00878</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>8920 Fletcher Pkwy</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>La Mesa, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Food 4 Less</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q00338</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>1821 N Hacienda Blvd</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>La Puente, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Vons</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q00515</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>1600 Foothill Blvd</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>La Verne, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Albertsons</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q00498</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>27702 Crown Valley Pkwy B</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Ladera Ranch, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Albertsons</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q01007</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>30241 Golden Lantern</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Laguna Niguel, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Albertsons</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q00518</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>30901 Riverside Dr</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Lake Elsinore, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Vons</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q00317</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>4226 Woodruff Ave</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Lakewood, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Vons</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q00740</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>5500 Woodruff Ave</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Lakewood, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>WinCo Foods</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q01286</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>3400 E South St</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Lakewood, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Safeway</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q00987</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>1554 First St</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Livermore, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Safeway</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q01049</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>4495 First St</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Livermore, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Vons</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q00654</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>1800-2000 Ximeno Ave</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Long Beach, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Food 4 Less</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q00720</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>3210 E Anaheim St</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Long Beach, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Albertsons</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q01019</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>101 E Willow St</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Long Beach, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Safeway</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q01517</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>160 1st St</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Los Altos, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Albertsons</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q00177</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>28090 S Western Ave</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Los Angeles, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Food 4 Less</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q00319</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>9635 Laurel Canyon Blvd</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Los Angeles, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Food 4 Less</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q00324</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>5100 N Figueroa St</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Los Angeles, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Vons</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q00336</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>3461 W 3rd St</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Los Angeles, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Food 4 Less</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q00370</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>16530 Sherman Way</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Los Angeles, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Food 4 Less</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q00386</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>11507 S Western Ave</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Los Angeles, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Food 4 Less</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q00391</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>11840 Wilmington Ave</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Los Angeles, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Food 4 Less</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q00410</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>336 W Anaheim St</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Los Angeles, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Food 4 Less</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q00411</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>18318 Vanowen St</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Los Angeles, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Food 4 Less</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q00412</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>8035 Webb Ave</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Los Angeles, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Food 4 Less</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q00413</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>1820 W Slauson Ave</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Los Angeles, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Food 4 Less</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q00419</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>16208 Parthenia St</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Los Angeles, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Food 4 Less</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q00420</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>2750 1st St</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Los Angeles, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Vons</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q00425</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>4520 W Sunset Blvd</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Los Angeles, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Pavilions</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q00469</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>14845 Ventura Blvd</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Los Angeles, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Pavilions</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q00514</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>6534 Platt Ave</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Los Angeles, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Vons</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q00577</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>7789 Foothill Blvd</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Los Angeles, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Vons</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q00702</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>16830 San Fernando Mission Blvd</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Los Angeles, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Vons</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q00719</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>7311 N Figueroa St</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Los Angeles, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Safeway</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q00978</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>470 N Santa Cruz Ave</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Los Gatos, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Safeway</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q00983</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>15549 Union Ave</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Los Gatos, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Safeway</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q00980</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>1187 S Main St</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Manteca, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Pavilions</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q00512</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>4365 Glencoe Ave</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Marina del Rey, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Safeway</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q01109</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>6688 Alhambra Ave</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Martinez, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Safeway</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q01330</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>525 El Camino Real</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Menlo Park, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Safeway</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q01510</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>525 El Camino Real</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Millbrae, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Safeway</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q00982</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>555 E Calaveras Blvd</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Milpitas, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Albertsons</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q00575</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>23072 Alicia Pkwy</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Mission Viejo, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Pavilions</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q01270</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>26022 Marguerite Pkwy</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Mission Viejo, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Vons</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q00335</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>130 W Foothill Blvd</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Monrovia, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Albertsons</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q00704</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>2469 Via Campo</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Montebello, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Safeway</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q01233</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>1355 Moraga Way</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Moraga, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>WinCo Foods</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q00497</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>12880 Day St</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Moreno Valley, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Safeway</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q00932</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>235 Tennant Station</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Morgan Hill, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Safeway</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q00985</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>840 E Dunne Ave</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Morgan Hill, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Safeway</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q01271</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>645 San Antonio Rd</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Mountain View, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Safeway</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q01513</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>1750 Miramonte Ave</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Mountain View, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Safeway</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q01538</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>570 N Shoreline Blvd</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Mountain View, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Albertsons</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q00485</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>39140 Winchester Rd</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Murrieta, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Albertsons</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q00495</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>41000 California Oaks Rd</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Murrieta, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Pavilions</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q00995</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>21181 Newport Coast Dr</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Newport Beach, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Safeway</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q01519</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>5720 Nave Dr</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Novato, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>FoodMaxx</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q00984</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>3000 E 9th St</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Oakland, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Safeway</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q01126</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>5100 Broadway</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Oakland, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Safeway</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q01164</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>4100 Redwood Rd</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Oakland, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Safeway</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q01267</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>6310 College Ave</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Oakland, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Albertsons</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q00668</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>3450 Marron Rd</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Oceanside, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Albertsons</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q00751</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>4150 Oceanside Blvd</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Oceanside, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Vons</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q01005</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>845 College Blvd</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Oceanside, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>WinCo Foods</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q01300</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>2245 S El Camino Real</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Oceanside, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Food 4 Less</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q01176</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>2246 S Euclid Ave</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Ontario, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Vons</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q00591</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>2684 N Tustin St</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Orange, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>WinCo Foods</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q01251</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>8701 Greenback Ln</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Orangevale, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Vons</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q00494</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>2101 N Rose Ave</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Oxnard, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Safeway</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q01344</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>1380 Linda Mar Shopping Center</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Pacifica, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Safeway</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q01387</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>709 Hickey Blvd</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Pacifica, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Vons</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q00372</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>2355 E Colorado Blvd</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Pasadena, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Safeway</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q01492</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>701 Sonoma Mountain Pkwy</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Petaluma, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Safeway</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q01525</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>389 S McDowell Blvd</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Petaluma, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Safeway</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q00969</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>3955 Missouri Flat Rd</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Placerville, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Safeway</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q00967</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>600 Patterson Blvd</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Pleasant Hill, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Safeway</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q01031</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>1978 Contra Costa Blvd</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Pleasant Hill, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Safeway</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q01148</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>707 Contra Costa Blvd</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Pleasant Hill, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Safeway</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q00944</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>1701 Santa Rita Rd</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Pleasanton, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>WinCo Foods</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q01236</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>90 Rio Rancho Rd</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Pomona, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Safeway</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q00935</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>10635 Folsom Blvd</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Rancho Cordova, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Albertsons</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q00468</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>11358 Kenyon Way</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Rancho Cucamonga, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Albertsons</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q00475</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>450 E Cypress Ave</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Redlands, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Vons</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q00741</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>4001 Inglewood Ave</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Redondo Beach, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Albertsons</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q00500</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>2975 Van Buren Boulevard</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Riverside, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Vons</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q01097</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>3520 Riverside Plaza Dr</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Riverside, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Safeway</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q00631</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>2220 Sunset Blvd</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Rocklin, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Safeway</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q00603</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>6340 Commerce Blvd</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Rohnert Park, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Pavilions</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q00714</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>7 Peninsula Center</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Rolling Hills Estates, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Safeway</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q00923</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>8640 Sierra College Blvd</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Roseville, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Safeway</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q00927</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>1080 Pleasant Grove Blvd</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Roseville, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Safeway</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q00929</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>989 Sunrise Ave</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Roseville, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Safeway</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q00988</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>9045 Woodcreek Oaks Blvd</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Roseville, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Safeway</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q00924</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>1814 19th St</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Sacramento, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Safeway</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q00926</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>1025 Alhambra Blvd</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Sacramento, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Safeway</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q00933</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>3320 Arden Wy</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Sacramento, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Safeway</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q00968</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>8377 Elk Grove Florin Rd</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Sacramento, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Safeway</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q01522</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>5345 Elkhorn Blvd</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Sacramento, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>WinCo Foods</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q01534</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>2300 Watt Ave</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Sacramento, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Safeway</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q01537</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>2851 Del Paso Rd</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Sacramento, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Safeway</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q01500</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>838 Sir Francis Drake Blvd</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>San Anselmo, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Albertsons</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q00521</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>804 Avenida Pico</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>San Clemente, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Pavilions</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q01291</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>989 Avenida Pico</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>San Clemente, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Vons</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q00489</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>620 Dennery Rd</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>San Diego, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Vons</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q00492</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>11986 Bernardo Plaza Dr</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>San Diego, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Vons</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q00499</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>6155 El Cajon Blvd</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>San Diego, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Vons</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q00505</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>8310 Mira Mesa Blvd</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>San Diego, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Vons</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q00506</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>515 Washington St</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>San Diego, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Albertsons</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q00572</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>12475 Rancho Bernardo Rd</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>San Diego, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Vons</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q00576</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>7544 Girard Ave</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>San Diego, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Albertsons</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q00581</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>8650 Lake Murray Blvd</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>San Diego, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Vons</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q00592</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>4145 30th St</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>San Diego, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Vons</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q00615</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>4725 Clairemont Dr</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>San Diego, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Vons</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q00888</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>3550 Murphy Canyon Rd</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>San Diego, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Vons</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q00889</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>10675 Scripps Poway Pkwy</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>San Diego, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Vons</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q01266</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>7895 Highlands Village Pl</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>San Diego, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Albertsons</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q00496</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>220 E Bonita Ave</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>San Dimas, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Safeway</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q00920</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>735 7th Ave</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>San Francisco, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Safeway</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q01335</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>850 La Playa St</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>San Francisco, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Safeway</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q01345</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>5290 Diamond Heights Blvd</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>San Francisco, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Lucky</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q00921</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>3457 McKee Rd</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>San Jose, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Safeway</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q00925</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>5760 Cottle Rd</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>San Jose, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Safeway</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q00934</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>1663 Branham Ln</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>San Jose, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Safeway</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q00937</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>4950 Almaden Expy</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>San Jose, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Safeway</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q00986</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>179 Branham Ln</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>San Jose, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Safeway</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q00991</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>1530 Hamilton Ave</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>San Jose, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Safeway</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q01526</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>5146 Stevens Creek Blvd</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>San Jose, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Safeway</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q01529</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>6150 Bollinger Rd</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>San Jose, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Safeway</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q01160</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>699 Lewelling Blvd</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>San Leandro, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>WinCo Foods</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q00479</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>555 Grand Ave</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>San Marcos, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Albertsons</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q00502</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>151 Woodland Pkwy</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>San Marcos, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Albertsons</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q00877</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>1929 W San Marcos Blvd</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>San Marcos, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Albertsons</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q01022</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>1571 San Elijo Rd</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>San Marcos, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Safeway</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q01134</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>100 De Anza Blvd</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>San Mateo, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Safeway</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q01260</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>1655 S El Camino Real</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>San Mateo, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Safeway</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q01039</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>11060 Bollinger Canyon Rd</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>San Ramon, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Food 4 Less</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q00320</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>2140 S Bristol St</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Santa Ana, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Vons</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q00414</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>3650 S Bristol St</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Santa Ana, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Albertsons</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q00478</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>23850 Copper Hill Dr</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Santa Clarita, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Albertsons</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q00487</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>27631 Bouquet Canyon Rd</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Santa Clarita, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Vons</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q01184</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>24160 Lyons Ave</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Santa Clarita, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Vons</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q01223</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>26518 Bouquet Canyon Rd</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Santa Clarita, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Food 4 Less</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q01656</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>19200 Soledad Canyon Rd</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Santa Clarita, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Safeway</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q01338</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>2203 Mission St</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Santa Cruz, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Vons</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q00513</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>576 W Main St</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Santa Paula, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Safeway</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q00623</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>1799 Marlow Rd</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Santa Rosa, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Safeway</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q00632</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>100 Calistoga Rd</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Santa Rosa, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Safeway</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q00672</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>2300 Mendocino Ave</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Santa Rosa, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Safeway</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q00976</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>2751 4th St</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Santa Rosa, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>FoodMaxx</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q01256</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>2055 Sebastopol Rd</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Santa Rosa, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Safeway</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q01339</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>1211 W College Ave</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Santa Rosa, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Safeway</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q01484</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>2785 Yulupa Ave</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Santa Rosa, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Vons</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q01655</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>9643 Mission Gorge Rd</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Santee, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Safeway</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q01521</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>12876 Saratoga Sunnyvale Rd</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Saratoga, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Safeway</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q01331</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>253 Mt Hermon Rd</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Scotts Valley, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Safeway</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q01514</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>406 N Main St</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Sebastopol, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Albertsons</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q00465</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>1268 Madera Rd</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Simi Valley, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Vons</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q00486</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>1855 Cochran St</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Simi Valley, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Vons</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q00504</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>2938 Tapo Canyon Rd</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Simi Valley, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Safeway</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q01536</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>477 W Napa St</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Sonoma, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Safeway</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q01351</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>30 Chestnut Ave</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>South San Francisco, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Safeway</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q01532</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>2255 Gellert Blvd</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>South San Francisco, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Albertsons</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q01218</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>543 Sweetwater Rd</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Spring Valley, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Vons</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q01216</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>25850 The Old Rd</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Stevenson Ranch, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Safeway</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q00975</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>6445 Pacific Ave</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Stockton, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Safeway</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q01057</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>2808 Country Club Blvd</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Stockton, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Safeway</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q00611</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>639 S Bernardo Ave</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Sunnyvale, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Safeway</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q01503</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>150 E El Camino Real</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Sunnyvale, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>WinCo Foods</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q01185</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>40435 Winchester Rd</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Temecula, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Vons</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q00507</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>2048 E Avenida de Los Arboles</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Thousand Oaks, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Vons</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q00423</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>4705 Torrance Blvd</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Torrance, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Vons</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q00706</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>24325 Crenshaw Blvd</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Torrance, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Safeway</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q00972</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>1801 W 11th St</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Tracy, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>WinCo Foods</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q01325</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>2850 Pavilion Pkwy</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Tracy, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Albertsons</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q00348</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>13270 Newport Ave</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Tustin, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Safeway</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q00979</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>1790 Decoto Rd</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Union City, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Albertsons</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q00661</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>1910 N Campus Ave</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Upland, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Vons</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q00731</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>101 W Foothill Blvd</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Upland, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Safeway</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q01346</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>2090 Harbison Dr</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Vacaville, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Safeway</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q01523</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>122 Robles Way</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Vallejo, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Albertsons</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q00488</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>1301 E Vista Way</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Vista, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Albertsons</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q00516</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>1601 S Melrose Dr</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Vista, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Safeway</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q00936</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>2800 Ygnacio Valley Rd</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Walnut Creek, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Food 4 Less</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q00248</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>615 N Azusa Ave</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>West Covina, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Pavilions</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q00415</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>8969 Santa Monica Blvd</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>West Hollywood, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Vons</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q00501</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>Los Angeles</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Westchester, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Albertsons</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q00662</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>6755 Westminster Blvd.</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Westminster, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Vons</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q00327</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>15740 La Forge St</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Whittier, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Safeway</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q01524</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>9080 Brooks Rd S</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Windsor, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Vons</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q01240</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>20445 Yorba Linda Blvd</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Yorba Linda, CA</span></td>
+    </tr>
+    
+    <tr style="height: 22px;">
+      <td class="wysiwyg-text-align-center" style="width: 25%; height: 22px;"><span>Vons</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 22%; height: 22px;"><span>Q00503</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 29%; height: 22px;"><span>33644 Yucaipa Blvd</span></td>
+      <td class="wysiwyg-text-align-center" style="width: 24%; height: 22px;"><span>Yucaipa, CA</span></td>
+    </tr>
+    
+  </tbody>
+</table>
+
+<p><strong>Vending machines only offer Pokémon Trading Card Game products. All sales are final. See our FAQ </strong><a href="https://support.pokemoncenter.com/hc/en-us/articles/6797616382868\" target="\&quot;_self\&quot;"><strong>here</strong></a><strong> for more information.</strong></p>
+
+</div>
+
+          <div class="article-attachments">
+            <ul class="attachments">
+              
+            </ul>
+          </div>
+        </div>
+      </section>
+
+      <footer>
+        <div class="article-footer">
+        <div class="article-return-to-top">
+          <a href="#article-container">Return to top<span class="icon-arrow-up"></span></a>
+        </div>
+      </footer>
+
+      <section class="article-relatives">
+        <div data-recent-articles></div>
+        
+  <section class="related-articles">
+    
+      <h2 class="related-articles-title">Related articles</h2>
+    
+    <ul>
+      
+        <li>
+          <a href="/hc/en-us/related/click?data=BAh7CjobZGVzdGluYXRpb25fYXJ0aWNsZV9pZGwrCJSDgrEuBjoYcmVmZXJyZXJfYXJ0aWNsZV9pZGwrCJQlkjO3FjoLbG9jYWxlSSIKZW4tdXMGOgZFVDoIdXJsSSJXL2hjL2VuLXVzL2FydGljbGVzLzY3OTc2MTYzODI4NjgtUG9rJUMzJUE5bW9uLUF1dG9tYXRlZC1SZXRhaWwtVmVuZGluZy1NYWNoaW5lLUZBUQY7CFQ6CXJhbmtpBg%3D%3D--68d7e574f76c12b5c55ec7767e39d17b87e197aa" rel="nofollow">Pokémon Automated Retail Vending Machine FAQ</a>
+        </li>
+      
+        <li>
+          <a href="/hc/en-us/related/click?data=BAh7CjobZGVzdGluYXRpb25fYXJ0aWNsZV9pZGwrCBR0BS23FjoYcmVmZXJyZXJfYXJ0aWNsZV9pZGwrCJQlkjO3FjoLbG9jYWxlSSIKZW4tdXMGOgZFVDoIdXJsSSJmL2hjL2VuLXVzL2FydGljbGVzLzI0OTc1OTkwMTU4MzU2LUFyaXpvbmEtUG9rJUMzJUE5bW9uLUF1dG9tYXRlZC1SZXRhaWwtVmVuZGluZy1NYWNoaW5lLUxvY2F0aW9ucwY7CFQ6CXJhbmtpBw%3D%3D--a7db4dd369ad7ea0db6a61028e08e75f99128ac5" rel="nofollow">Arizona Pokémon Automated Retail Vending Machine Locations</a>
+        </li>
+      
+        <li>
+          <a href="/hc/en-us/related/click?data=BAh7CjobZGVzdGluYXRpb25fYXJ0aWNsZV9pZGwrCBQXMDC3FjoYcmVmZXJyZXJfYXJ0aWNsZV9pZGwrCJQlkjO3FjoLbG9jYWxlSSIKZW4tdXMGOgZFVDoIdXJsSSJkL2hjL2VuLXVzL2FydGljbGVzLzI0OTc2MDQzMjg0MjQ0LVRleGFzLVBvayVDMyVBOW1vbi1BdXRvbWF0ZWQtUmV0YWlsLVZlbmRpbmctTWFjaGluZS1Mb2NhdGlvbnMGOwhUOglyYW5raQg%3D--7a6d2bd8e1465b4f86b9c2e8e903d57ccf617d6b" rel="nofollow">Texas Pokémon Automated Retail Vending Machine Locations</a>
+        </li>
+      
+        <li>
+          <a href="/hc/en-us/related/click?data=BAh7CjobZGVzdGluYXRpb25fYXJ0aWNsZV9pZGwrCErVr9FTADoYcmVmZXJyZXJfYXJ0aWNsZV9pZGwrCJQlkjO3FjoLbG9jYWxlSSIKZW4tdXMGOgZFVDoIdXJsSSJnL2hjL2VuLXVzL2FydGljbGVzLzM2MDAwMDI0NzExNC1XYXNoaW5ndG9uLVBvayVDMyVBOW1vbi1BdXRvbWF0ZWQtUmV0YWlsLVZlbmRpbmctTWFjaGluZS1Mb2NhdGlvbnMGOwhUOglyYW5raQk%3D--8c5e4f75797915b26a65c3fe8326b832546d838b" rel="nofollow">Washington Pokémon Automated Retail Vending Machine Locations</a>
+        </li>
+      
+        <li>
+          <a href="/hc/en-us/related/click?data=BAh7CjobZGVzdGluYXRpb25fYXJ0aWNsZV9pZGwrCBTOASm3FjoYcmVmZXJyZXJfYXJ0aWNsZV9pZGwrCJQlkjO3FjoLbG9jYWxlSSIKZW4tdXMGOgZFVDoIdXJsSSJnL2hjL2VuLXVzL2FydGljbGVzLzI0OTc1OTIyODEwMzg4LUNvbG9yYWRvLVBvayVDMyVBOW1vbi1BdXRvbWF0ZWQtUmV0YWlsLVZlbmRpbmctTWFjaGluZS1Mb2NhdGlvbnMGOwhUOglyYW5raQo%3D--ab5826375b390e3cb06d0feddb64b04c4a7d0025" rel="nofollow">Colorado Pokémon Automated Retail Vending Machine Locations</a>
+        </li>
+      
+    </ul>
+  </section>
+
+
+      </section>
+          </header>
+
+          
+        </section>
+      </div>
+    </article>
+  </div>
+</div>
+
+  </main>
+
+  <footer class="footer">
+  <div class="footer-inner">
+    <a title="Home" href="/hc/en-us"><img src="/hc/theming_assets/01HZPDCZX0NP5DTGKKSGWXJP62" /></a>
+
+    <div class="footer-language-selector">
+    <h6>  ©2024 Pokémon. ©1995 - 2024 Nintendo/Creatures Inc./GAME FREAK inc. TM, ® Nintendo. | <a href="https://www.pokemoncenter.com/terms-of-use">Terms of Use</a> | <a href="https://www.pokemon.com/us/privacy-notice/">Privacy Notice</a> | <a href="https://www.pokemoncenter.com/legal-info">Legal Info</a> | <a href="https://www.pokemoncenter.com/sitemap">Site Map</a> | <a href="https://www.pokemon.com/">Pokemon.com</a> </h6>
+      
+    </div>
+  </div>
+  <!-- Start of pcenter Zendesk Widget script -->
+<script id="ze-snippet" src="https://static.zdassets.com/ekr/snippet.js?key=f7962e43-4b2b-43b8-be8c-7e442e98f398"> </script>
+<script type="text/javascript">
+  window.zESettings = {
+    webWidget: {
+      chat: {
+        departments: {
+          enabled: []
+        }
+      }
+    }
+  };
+</script>
+<!-- End of pcenter Zendesk Widget script -->
+
+</footer>
+
+
+
+  <!-- / -->
+
+  
+  <script src="//static.zdassets.com/hc/assets/en-us.2e1abb2645a9c23ddaa2.js"></script>
+  <script src="https://pcom.zendesk.com/auth/v2/host/without_iframe.js" data-brand-id="114095277713" data-return-to="https://support.pokemoncenter.com/hc/en-us/articles/24976100042132-California-Pok%C3%A9mon-Automated-Retail-Vending-Machine-Locations" data-theme="hc" data-locale="en-us" data-auth-origin="114095277713,true,true"></script>
+
+  <script type="text/javascript">
+  /*
+
+    Greetings sourcecode lurker!
+
+    This is for internal Zendesk and legacy usage,
+    we don't support or guarantee any of these values
+    so please don't build stuff on top of them.
+
+  */
+
+  HelpCenter = {};
+  HelpCenter.account = {"subdomain":"pcom","environment":"production","name":"Pokémon"};
+  HelpCenter.user = {"identifier":"da39a3ee5e6b4b0d3255bfef95601890afd80709","email":null,"name":"","role":"anonymous","avatar_url":"https://assets.zendesk.com/hc/assets/default_avatar.png","is_admin":false,"organizations":[],"groups":[]};
+  HelpCenter.internal = {"asset_url":"//static.zdassets.com/hc/assets/","web_widget_asset_composer_url":"https://static.zdassets.com/ekr/snippet.js","current_session":{"locale":"en-us","csrf_token":"hc:hcobject:server:VqgOHOT9_OOVojm2WNN8_NoN7BffHcg16WTDKZnz8GH5H2UacgfzTgCvNek-Mk2OEHJYf9Dxbv8KJb-nOOMlXg","shared_csrf_token":null},"usage_tracking":{"event":"article_viewed","data":"BAh7CDoLbG9jYWxlSSIKZW4tdXMGOgZFVDoPYXJ0aWNsZV9pZGwrCJQlkjO3FjoKX21ldGF7DDoPYWNjb3VudF9pZGkDYMIgOhNoZWxwX2NlbnRlcl9pZGwrCBUwrNFTADoNYnJhbmRfaWRsKwiRxpuQGgA6DHVzZXJfaWQwOhN1c2VyX3JvbGVfbmFtZUkiDkFOT05ZTU9VUwY7BlQ7AEkiCmVuLXVzBjsGVDoaYW5vbnltb3VzX3RyYWNraW5nX2lkMA==--5d84400f8f93f18e35102efea5aec9c7d97fd19e","url":"https://support.pokemoncenter.com/hc/activity"},"current_record_id":"24976100042132","current_record_url":"/hc/en-us/articles/24976100042132-California-Pok%C3%A9mon-Automated-Retail-Vending-Machine-Locations","current_record_title":"California Pokémon Automated Retail Vending Machine Locations","current_text_direction":"ltr","current_brand_id":114095277713,"current_brand_name":"Pokémon Center","current_brand_url":"https://pcenter.zendesk.com","current_brand_active":true,"current_path":"/hc/en-us/articles/24976100042132-California-Pok%C3%A9mon-Automated-Retail-Vending-Machine-Locations","show_autocomplete_breadcrumbs":true,"user_info_changing_enabled":false,"has_user_profiles_enabled":true,"has_end_user_attachments":true,"user_aliases_enabled":false,"has_anonymous_kb_voting":false,"has_multi_language_help_center":true,"show_at_mentions":true,"embeddables_config":{"embeddables_web_widget":true,"embeddables_connect_ipms":false,"web_widget_seamless_auth_enabled":false},"answer_bot_subdomain":"static","general_settings_url":"https://support.pokemoncenter.com/hc/admin/general_settings?locale=en-us","user_segments_url":"https://pcom.zendesk.com/knowledge/user_segments?brand_id=114095277713","has_gather":true,"has_ckeditor":true,"has_community_enabled":false,"has_community_badges":true,"has_community_post_content_tagging":false,"has_gather_content_tags":true,"has_guide_content_tags":true,"has_user_segments":true,"has_answer_bot_web_form_enabled":false,"has_edit_user_profile_v2":true,"has_garden_modals":false,"theming_cookie_key":"hc-da39a3ee5e6b4b0d3255bfef95601890afd80709-2-preview","is_preview":false,"has_alternate_templates":true,"arrange_articles_url":"https://pcom.zendesk.com/knowledge/arrange?brand_id=114095277713","article_verification_url":"https://pcom.zendesk.com/knowledge/verification?brand_id=114095277713","has_article_verification":true,"guide_language_settings_url":"https://support.pokemoncenter.com/hc/admin/language_settings?locale=en-us","docs_importer_url":"https://pcom.zendesk.com/knowledge/import_articles?brand_id=114095277713","content_tags_url":"https://pcom.zendesk.com/knowledge/content_tags?brand_id=114095277713","community_badges_url":"https://pcom.zendesk.com/knowledge/community_badges?brand_id=114095277713","community_settings_url":"https://pcom.zendesk.com/knowledge/community_settings?brand_id=114095277713","gather_plan_state":"subscribed","search_settings_url":"https://pcom.zendesk.com/knowledge/search_settings?brand_id=114095277713","has_search_settings_in_plan":true,"theming_api_version":3,"theming_settings":{"brand_color":"rgba(51, 51, 51, 1)","brand_text_color":"#FFFFFF","text_color":"#333333","link_color":"rgba(0, 0, 238, 1)","background_color":"#FFFFFF","heading_font":"Helvetica, Arial, sans-serif","text_font":"Helvetica, Arial, sans-serif","logo":"/hc/theming_assets/01HZPDD03PD1YW2PGW1VNZ8QH2","show_brand_name":false,"favicon":"/hc/theming_assets/01HZPDD07NYKQ9HB6V6X9S76VN","homepage_background_image":"/hc/theming_assets/01HZPDD0F9MZEWAZF6EZZ57A2W","community_background_image":"/hc/theming_assets/01HZPDD0QADQGADAVX12XCSS11","community_image":"/hc/theming_assets/01HZPDD0XX0RWMR2D056MNYJM3","instant_search":true,"scoped_kb_search":true,"scoped_community_search":true,"show_follow_section":false,"show_follow_post":false,"show_post_sharing":false,"show_follow_article":false},"has_pci_credit_card_custom_field":true,"help_center_restricted":false,"is_assuming_someone_else":false,"flash_messages":[],"user_photo_editing_enabled":true,"user_preferred_locale":"en-us","base_locale":"en-us","has_user_session_cookie_enabled":true,"has_custom_statuses_enabled":true,"has_generative_answers_in_help_center_for_anonymous":true,"has_hc_generative_answers_setting_enabled":false,"has_guide_service_catalog":false,"version":"v26117"};
+</script>
+
+  
+  <script src="//static.zdassets.com/hc/assets/hc_enduser-92ceb509ecc6d1585248588dbd043e25.js"></script>
+  <script type="text/javascript" src="/hc/theming_assets/2146912/114095277713/script.js?digest=37286741152276"></script>
+  
+</body>
+</html>
