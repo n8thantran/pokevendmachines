@@ -4,6 +4,7 @@ import React, { useState, useEffect } from 'react';
 import dynamic from 'next/dynamic';
 import { VendingMachine } from './components/Map';
 import vendingMachinesData from './pokemon_vending_machines_with_coordinates.json';
+import { Analytics } from "@vercel/analytics/next"
 
 // Dynamically import the Map component to avoid SSR issues with Leaflet
 const Map = dynamic(() => import('./components/Map'), {
@@ -306,6 +307,7 @@ export default function Home() {
           </div>
         </div>
       </div>
+      <Analytics />
     </div>
   );
 }
